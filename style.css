@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 80px;
+  background-color: #f9f9f9;
+}
+
+.container {
+  padding: 20px;
+}
+
+#coin {
+  width: 500px;
+  margin: 20px;
+}
+
+.hidden {
+  display: none;
+}
+
+#result {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 20px;
+}
